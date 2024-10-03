@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://pinaz.motocospin.click/sitemap.xml
+Host: pinaz.motocospin.click
